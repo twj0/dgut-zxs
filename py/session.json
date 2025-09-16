@@ -1,0 +1,9 @@
+{
+"h5-Token":"eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6IjJmZjM0ODlkLWEyOWEtNDk3Mi04ZDYyLWI2NzVjYmY4NjY0ZiJ9.JR9sCGq8jtSc8Ugh2RtvIiQGOp3yBNRPnjbHY90-0YQeqsjimTiFxheJ73_LDbPPBDzfEVWIwpS4UUvhU8ZiEQ",
+
+"h5-UserInfo":{"createBy":"",
+"createTime":null,"updateBy":null,"updateTime":null,"remark":null,"userId":270063,"campusId":1,"deptId":207000,"userName":"2023428020130","nickName":"唐玮嘉","userType":2,"email":"","openid":null,"phonenumber":null,"sex":1,"avatar":"","password":"$2a$10$6EUVTJBj8KHnBApnpkyw5OLaC1iGz0C8myv4BlHa3RPCQAJ2Ln6Da","status":"0","delFlag":"0","professional":0,"degree":0,"education":0,"loginIp":"10.61.53.76","loginDate":"2025-09-16T19:11:54.000+08:00","dept":{"createBy":null,"createTime":null,"updateBy":null,"updateTime":null,"remark":null,"deptId":207000,"parentId":0,"ancestors":"207000","deptName":"化学工程与能源技术学院","orderNum":0,"leader":null,"phone":null,"email":null,"status":"0","delFlag":null,"parentName":null,"children":[]},"roles":[{"createBy":null,"createTime":null,"updateBy":null,"updateTime":null,"remark":null,"roleId":101,"roleName":"学生","roleKey":"student","roleSort":0,"dataScope":"1","menuCheckStrictly":false,
+"deptCheckStrictly":false,"status":"0","delFlag":null,"flag":false,"menuIds":null,"deptIds":null,"permissions":null,"admin":false}],
+"roleIds":null,"postIds":null,"roleId":null,"actPoint":null,"applyPoint":null,"isStatus":null,"isPush":null,"grade":2023,"admin":false}
+
+}
