@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         DGUT 课程定时选择助手
+// @name         DGUT 知行课程定时选择助手
 // @namespace    http://tampermonkey.net/
 // @version      1.8
-// @description  (Proactive Step Handling & UI/UX Enhancements) 在东莞理工学院知行系统选课页面提供图形化界面，定时自动选择课程，处理二次确认，并尝试应对后续步骤。
-// @author       Gemini & User
+// @description  在东莞理工学院知行系统选课页面提供图形化界面，定时自动选择课程，处理二次确认，并尝试应对后续步骤。
+// @author       twj0
 // @match        https://zxs.dgut.edu.cn/h5/applyClass*
 // @grant        GM_addStyle
 // @run-at       document-idle
